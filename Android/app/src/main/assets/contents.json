@@ -4,115 +4,205 @@
   "sticker_packs": [
     {
       "identifier": "1",
-      "name": "Cuppy",
-      "publisher": "Jane Doe",
-      "tray_image_file": "tray_Cuppy.png",
+      "name": "The Untamed Pack 1",
+      "publisher": "Raziel619",
+      "tray_image_file": "tray_1.png",
       "image_data_version":"1",
       "avoid_cache":false,
-      "publisher_email":"",
-      "publisher_website": "",
+      "publisher_email":"raziel619dev@gmail.com",
+      "publisher_website": "https://www.raziel619.com/",
       "privacy_policy_website": "",
       "license_agreement_website": "",
       "stickers": [
         {
-          "image_file": "01_Cuppy_smile.webp",
-          "emojis": ["☕","🙂"]
+          "image_file": "a1.webp",
+          "emojis": ["🙂"]
         },
         {
-          "image_file": "02_Cuppy_lol.webp",
-          "emojis": ["😄","😀"]
+          "image_file": "a2.webp",
+          "emojis": ["😐", "😑"]
         },
         {
-          "image_file": "03_Cuppy_rofl.webp",
-          "emojis": ["😆","😂"]
+          "image_file": "a3.webp",
+          "emojis": ["👋"]
         },
         {
-          "image_file": "04_Cuppy_sad.webp",
-          "emojis": ["😩","😰"]
+          "image_file": "a4.webp",
+          "emojis": ["🙂"]
         },
         {
-          "image_file": "05_Cuppy_cry.webp",
-          "emojis": ["😭","💧"]
+          "image_file": "a5.webp",
+          "emojis": ["🙂"]
         },
         {
-          "image_file": "06_Cuppy_love.webp",
-          "emojis": ["😍","♥"]
+          "image_file": "a6.webp",
+          "emojis": ["🙂"]
         },
         {
-          "image_file": "07_Cuppy_hate.webp",
-          "emojis": ["💔","👎"]
+          "image_file": "a7.webp",
+          "emojis": ["🙂", "😀", "😃"]
         },
         {
-          "image_file": "08_Cuppy_lovewithmug.webp",
-          "emojis": ["😍","💑"]
+          "image_file": "a9.webp",
+          "emojis": ["😣", "😖", "😫"]
         },
         {
-          "image_file": "09_Cuppy_lovewithcookie.webp",
-          "emojis": ["😘","🍪"]
+          "image_file": "a13.webp",
+          "emojis": ["☺","😊", "😇"]
         },
         {
-          "image_file": "10_Cuppy_hmm.webp",
-          "emojis": ["🤔","😐"]
+          "image_file": "a15.webp",
+          "emojis": ["😱", "😨", "😰"]
         },
         {
-          "image_file": "11_Cuppy_upset.webp",
-          "emojis": ["😱","😵"]
+          "image_file": "b1.webp",
+          "emojis": ["🙃", "😉"]
         },
         {
-          "image_file": "12_Cuppy_angry.webp",
-          "emojis": ["😡","😠"]
+          "image_file": "b2.webp",
+          "emojis": ["😤", "😠", "😡"]
         },
         {
-          "image_file": "13_Cuppy_curious.webp",
-          "emojis": ["❓","🤔"]
+          "image_file": "b3.webp",
+          "emojis": ["😜", "🤪"]
         },
         {
-          "image_file": "14_Cuppy_weird.webp",
-          "emojis": ["🌈","😜"]
+          "image_file": "b4.webp",
+          "emojis": ["🙂", "😀", "😃"]
         },
         {
-          "image_file": "15_Cuppy_bluescreen.webp",
-          "emojis": ["💻","😩"]
+          "image_file": "b5.webp",
+          "emojis": ["😤", "😠", "😡"]
         },
         {
-          "image_file": "16_Cuppy_angry.webp",
-          "emojis": ["😡","😤"]
+          "image_file": "b7.webp",
+          "emojis": ["🥺", "😢", "😭"]
         },
         {
-          "image_file": "17_Cuppy_tired.webp",
-          "emojis": ["😩","😨"]
+          "image_file": "b10.webp",
+          "emojis": ["🙂", "😀", "😃"]
         },
         {
-          "image_file": "18_Cuppy_workhard.webp",
-          "emojis": ["💻","🌃"]
+          "image_file": "e1.webp",
+          "emojis": ["😤", "😠", "😡"]
         },
         {
-          "image_file": "19_Cuppy_shine.webp",
-          "emojis": ["🎉","✨"]
+          "image_file": "e2.webp",
+          "emojis": ["😤", "😠", "😡"]
         },
         {
-          "image_file": "20_Cuppy_disgusting.webp",
-          "emojis": ["🤮","👎"]
+          "image_file": "e4.webp",
+          "emojis": ["🥺", "😢", "😭"]
         },
         {
-          "image_file": "21_Cuppy_hi.webp",
-          "emojis": ["🖐","🙋"]
+          "image_file": "e5.webp",
+          "emojis": ["😧","😮", "😲"]
         },
         {
-          "image_file": "22_Cuppy_bye.webp",
-          "emojis": ["🖐","👋"]
+          "image_file": "e9.webp",
+          "emojis": ["🥺", "😢", "😭"]
         },
         {
-          "image_file": "23_Cuppy_greentea.webp",
-          "emojis": ["🍵","😌"]
+          "image_file": "f1.webp",
+          "emojis": ["🙂"]
         },
         {
-          "image_file": "24_Cuppy_phone.webp",
-          "emojis": ["📱","😦"]
+          "image_file": "f2.webp",
+          "emojis": ["🙂"]
+        }
+      ]
+    },
+    {
+      "identifier": "2",
+      "name": "The Untamed Pack 2",
+      "publisher": "Raziel619",
+      "tray_image_file": "tray_2.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"raziel619dev@gmail.com",
+      "publisher_website": "https://www.raziel619.com/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "c1.webp",
+          "emojis": ["🙂", "😀", "😃"]
         },
         {
-          "image_file": "25_Cuppy_battery.webp",
-          "emojis": ["🔋","😵"]
+          "image_file": "c2.webp",
+          "emojis": ["😧","😮", "😲"]
+        },
+        {
+          "image_file": "c3.webp",
+          "emojis": ["😤", "😠", "😡"]
+        },
+        {
+          "image_file": "c4.webp",
+          "emojis": ["😢", "😭"]
+        },
+        {
+          "image_file": "d1.webp",
+          "emojis": ["😣", "😖"]
+        },
+        {
+          "image_file": "f3.webp",
+          "emojis": ["😢", "😭"]
+        },
+        {
+          "image_file": "h1.webp",
+          "emojis": ["🙂", "😀", "😃"]
+        },
+        {
+          "image_file": "h3.webp",
+          "emojis": ["🤔"]
+        },
+        {
+          "image_file": "j1.webp",
+          "emojis": ["😶"]
+        },
+        {
+          "image_file": "j2.webp",
+          "emojis": ["😮", "😲"]
+        },
+        {
+          "image_file": "k1.webp",
+          "emojis": ["🙂", "😀", "😃"]
+        },
+        {
+          "image_file": "k2.webp",
+          "emojis": ["🙂", "😀", "😃"]
+        },
+        {
+          "image_file": "k3.webp",
+          "emojis": ["🙂", "😀", "😃"]
+        },
+        {
+          "image_file": "k5.webp",
+          "emojis": ["🙂", "😀", "😃"]
+        },
+        {
+          "image_file": "l1.webp",
+          "emojis": ["😱"]
+        },
+        {
+          "image_file": "m1.webp",
+          "emojis": ["🙂", "😀", "😃"]
+        },
+        {
+          "image_file": "o1.webp",
+          "emojis": ["😢", "😭"]
+        },
+        {
+          "image_file": "q1.webp",
+          "emojis": ["😢", "😭"]
+        },
+        {
+          "image_file": "r2.webp",
+          "emojis": ["😣", "😖"]
+        },
+        {
+          "image_file": "r3.webp",
+          "emojis": ["😢", "😭"]
         }
       ]
     }
